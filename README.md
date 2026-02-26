@@ -1,7 +1,7 @@
 # Literature Review of AI-Driven Body Shape Analysis for Sarcopenia
-### [[Project](https://aizierjiang.github.io/lr4sarcopenia)] [[Paper](https://arxiv.org/abs/COMING_SOON)] [[Code](https://github.com/Aizierjiang/lr4sarcopenia)] [[Dynamic Site](https://aizierjiang.github.io/AI4SarcopeniaLiteratureDaily)]
+### [[Project](https://aizierjiang.github.io/lr4sarcopenia)] [[Paper](https://doi.org/10.36227/techrxiv.176740455.50730214/v1)] [[Code](https://github.com/Aizierjiang/lr4sarcopenia)] [[Dynamic Site](https://aizierjiang.github.io/AI4SarcopeniaLiteratureDaily)]
 
-> [**Literature Review of AI-Driven Body Shape Analysis for Sarcopenia**](https://arxiv.org/abs/COMING_SOON),            
+> [**Literature Review of AI-Driven Body Shape Analysis for Sarcopenia**](https://doi.org/10.36227/techrxiv.176740455.50730214/v1),            
 > Aizierjiang Aiersilan and James Hahn
 
 **Visit** [Dynamic Site: AI for Sarcopenia Literature Daily](https://aizierjiang.github.io/AI4SarcopeniaLiteratureDaily) to keep up with the trend.
@@ -20,7 +20,7 @@
 
 ## 📜 BibTeX
 
-_[Full Version on Arxiv](https://arxiv.org/abs/COMING_SOON)_
+_[Full Version on Ahthorea](https://doi.org/10.36227/techrxiv.176740455.50730214/v1)_
 
 ```bibtex
 @article{aiersilan2026literature,
@@ -46,8 +46,7 @@ _[Full Version on Arxiv](https://arxiv.org/abs/COMING_SOON)_
 ## Supplementary Material
 
 - [This folder](./src) contains the data and scripts I utilized when writing the literature review..
-- [This](xxxxx-arxiv.pdf) is the duplicate of the paper downloaded from [Arxiv](https://arxiv.org/abs/COMING_SOON), which is the **full version** that I recommend.
-- [This](COMING_SOON.pdf) is the duplicate of the manuscript I submitted to the journal. **Due to publication fees, some content has been omitted**.
+- Click [Authorea Preprint](https://doi.org/10.36227/techrxiv.176740455.50730214/v1) for the full paper.
 - [This folder](./template) serves as the style template I used for crafting this literature review.
 
 <br>
