@@ -23,11 +23,13 @@
 _[Full Version on Arxiv](https://arxiv.org/abs/COMING_SOON)_
 
 ```bibtex
-@article{aiersilan2025literature,
+@article{aiersilan2026literature,
   title={Literature Review of AI-Driven Body Shape Analysis for Sarcopenia},
-  author={Aizierjiang Aiersilan, James Hahn},
-  journal={arXiv:COMING_SOON},
-  year={2025},
+  author={Aiersilan, Aizierjiang and Hahn, James},
+  journal={Authorea Preprints},
+  year={2026},
+  publisher={Authorea},
+  url=https://doi.org/10.36227/techrxiv.176740455.50730214/v1
 }
 ```
 
